@@ -1,0 +1,13 @@
+[pesosprova.java](https://github.com/user-attachments/files/26578279/pesosprova.java)
+double ac1 = 1.5;
+double ac2 = 3.0;
+double ag = 1.0;
+double af = 4.5;
+
+double soma = ac1 + ac2 + ag + af;
+
+if (soma <= 10.0) {
+    System.out.println("OK");
+} else {
+    System.out.println("Sua Soma Passou De 10");
+}
