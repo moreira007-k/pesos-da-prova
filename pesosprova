@@ -1,0 +1,21 @@
+package pesosprova;
+
+public class Main {
+    public static void main(String[] args) {
+
+        // Pesos fixos das provas
+        double ac1 = 1.5;
+        double ac2 = 3.0;
+        double ag = 1.0;
+        double af = 4.5;
+
+        double soma = ac1 + ac2 + ag + af;
+
+        System.out.println("Os pesos das provas sao:");
+        System.out.println("AC1 15%);
+        System.out.println("AC2 30%);
+        System.out.println("AG 10%);
+        System.out.println("AF 45% );
+
+    }
+}
